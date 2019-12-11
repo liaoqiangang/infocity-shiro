@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "spring.redis",
+      "type": "com.infocity.config.RedisConfig",
+      "sourceType": "com.infocity.config.RedisConfig"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}

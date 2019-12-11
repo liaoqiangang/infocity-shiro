@@ -1,0 +1,7 @@
+/Users/liaoqiangang/IdeaProjects/infocity-shiro/shiro-server/src/main/java/com/infocity/dao/impl/UserDaoImpl.java
+/Users/liaoqiangang/IdeaProjects/infocity-shiro/shiro-server/src/main/java/com/infocity/dto/User.java
+/Users/liaoqiangang/IdeaProjects/infocity-shiro/shiro-server/src/main/java/com/infocity/config/ShiroConfig.java
+/Users/liaoqiangang/IdeaProjects/infocity-shiro/shiro-server/src/main/java/com/infocity/dao/UserDao.java
+/Users/liaoqiangang/IdeaProjects/infocity-shiro/shiro-server/src/main/java/com/infocity/controller/LoginController.java
+/Users/liaoqiangang/IdeaProjects/infocity-shiro/shiro-server/src/main/java/com/infocity/realm/CustomRealm.java
+/Users/liaoqiangang/IdeaProjects/infocity-shiro/shiro-server/src/main/java/com/infocity/ShiroApp.java
